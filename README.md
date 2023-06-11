@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm duy</h1>
 <h3 align="center">I am currently studying and developing in the Java programming language and from vietnam</h3>
-<iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
+<img align="right" width="400" alt =" coding" src ="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47wvg35a0mkwdngdpegmxe4q92k6u44xztjovjveyz&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 - 💬 Ask me about **java, react, database**
 
 - 📫 How to reach me **nguyenthihuong@gmail.com**
