@@ -19,5 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charlottejv&show_icons=true&locale=en" alt="charlottejv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charlottejv&" alt="charlottejv" /></p>
-[!(./img/youtube-light.svg)#gh-light-mode-only]
-[!(./img/youtobe-dark.svg)#gh-dark-mode-only]
+
